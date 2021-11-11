@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background: linear-gradient(#1ad92a, #70e6de, #ede31f)
+}
+label{
+    width: 80%;
+}
+#camera, #result{
+    border-style: dashed;
+    width: 300px;
+    height: 300px;
+}
